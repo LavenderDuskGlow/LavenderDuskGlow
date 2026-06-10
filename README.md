@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Focus" />
-  <img src="https://img.shields.io/badge/Learning-React%20%26%20TypeScript-8b5cf6?style=for-the-badge&labelColor=0f172a" alt="Learning" />
+  <img src="https://img.shields.io/badge/Learning-React-8b5cf6?style=for-the-badge&labelColor=0f172a" alt="Learning" />
   <img src="https://img.shields.io/badge/Mode-Keep%20Building-22c55e?style=for-the-badge&labelColor=0f172a" alt="Mode" />
 </p>
 
