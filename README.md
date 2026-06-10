@@ -4,17 +4,18 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-LavenderDuskGlow-181717?style=flat-square&logo=github)](https://github.com/LavenderDuskGlow)
 [![Email](https://img.shields.io/badge/Email-3334355151%40qq.com-22c55e?style=flat-square&logo=gmail&logoColor=white)](mailto:3334355151@qq.com)
+[![BGM](https://img.shields.io/badge/BGM-Click%20to%20Listen-8b5cf6?style=flat-square&logo=applemusic&logoColor=white)](https://music.163.com/)
 ![Profile Views](https://komarev.com/ghpvc/?username=LavenderDuskGlow&style=flat-square&color=0ea5e9)
 
 </div>
 
 ## 你好呀
 
-我是一名正在学习前端开发的开发者，喜欢把想法一点点做成真正可以运行的作品。
+我正在学习前端开发，也在把一个个灵感打磨成真实可运行的作品。
 
-- 目前专注：前端开发、页面交互、项目实践
-- 正在学习：React
-- 喜欢的状态：保持好奇，认真打磨，持续进步
+- 主线任务：前端开发、页面交互、项目实战
+- 当前技能树：React、Vue、JavaScript、TypeScript
+- 长期状态：保持好奇，稳定输出，慢慢变强
 
 ## 技术栈
 
