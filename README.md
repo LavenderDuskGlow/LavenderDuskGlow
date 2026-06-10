@@ -23,10 +23,6 @@
   <img src="https://img.shields.io/badge/Mode-Keep%20Building-22c55e?style=for-the-badge&labelColor=0f172a" alt="Mode" />
 </p>
 
-<p align="center">
-  <strong>前端开发 / 页面交互 / 项目实践</strong>
-</p>
-
 ## 技术栈
 
 <div align="center">
