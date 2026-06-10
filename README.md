@@ -17,25 +17,15 @@
 
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <strong>Focus</strong><br />
-      前端开发<br />
-      页面交互
-    </td>
-    <td align="center" width="33%">
-      <strong>Learning</strong><br />
-      React<br />
-      TypeScript
-    </td>
-    <td align="center" width="33%">
-      <strong>Mode</strong><br />
-      保持好奇<br />
-      稳定输出
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Focus" />
+  <img src="https://img.shields.io/badge/Learning-React%20%26%20TypeScript-8b5cf6?style=for-the-badge&labelColor=0f172a" alt="Learning" />
+  <img src="https://img.shields.io/badge/Mode-Keep%20Building-22c55e?style=for-the-badge&labelColor=0f172a" alt="Mode" />
+</p>
+
+<p align="center">
+  <strong>前端开发 / 页面交互 / 项目实践</strong>
+</p>
 
 ## 技术栈
 
