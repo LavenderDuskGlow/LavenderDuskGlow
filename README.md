@@ -4,7 +4,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-LavenderDuskGlow-181717?style=flat-square&logo=github)](https://github.com/LavenderDuskGlow)
 [![Email](https://img.shields.io/badge/Email-3334355151%40qq.com-22c55e?style=flat-square&logo=gmail&logoColor=white)](mailto:3334355151@qq.com)
-[![BGM](https://img.shields.io/badge/BGM-Click%20to%20Listen-8b5cf6?style=flat-square&logo=applemusic&logoColor=white)](https://music.163.com/)
+[![BGM](https://img.shields.io/badge/BGM-Click%20to%20Listen-8b5cf6?style=flat-square&logo=applemusic&logoColor=white)](https://www.kugou.com/mixsong/j57zt5f.html?fromsearch=%E4%B8%8D%E8%A6%81%E8%AF%B4%E8%AF%9D%C2%A0%E9%99%88%E5%A5%95%E8%BF%85)
 ![Profile Views](https://komarev.com/ghpvc/?username=LavenderDuskGlow&style=flat-square&color=0ea5e9)
 
 </div>
