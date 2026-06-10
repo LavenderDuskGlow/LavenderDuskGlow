@@ -9,13 +9,33 @@
 
 </div>
 
-## 你好呀
+<div align="center">
 
-我正在学习前端开发，也在把一个个灵感打磨成真实可运行的作品。
+## About Me
 
-- 主线任务：前端开发、页面交互、项目实战
-- 当前技能树：React、Vue、JavaScript、TypeScript
-- 长期状态：保持好奇，稳定输出，慢慢变强
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=680&lines=Learning+front-end+development;Turning+ideas+into+real+projects;React+%2F+Vue+%2F+TypeScript)
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Focus</strong><br />
+      前端开发<br />
+      页面交互
+    </td>
+    <td align="center" width="33%">
+      <strong>Learning</strong><br />
+      React<br />
+      TypeScript
+    </td>
+    <td align="center" width="33%">
+      <strong>Mode</strong><br />
+      保持好奇<br />
+      稳定输出
+    </td>
+  </tr>
+</table>
 
 ## 技术栈
 
